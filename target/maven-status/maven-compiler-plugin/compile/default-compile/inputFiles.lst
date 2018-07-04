@@ -1,0 +1,7 @@
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/service/DeviceService.java
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/config/NotificationServletInitializer.java
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/config/NotificationWebConfig.java
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/controller/DeviceController.java
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/service/DeviceServiceImpl.java
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/filter/CORSFilter.java
+/home/edureka/app1/src/main/java/com/learnkarts/notificationapp/model/Device.java
