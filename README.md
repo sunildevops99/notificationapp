@@ -1,5 +1,5 @@
 # notificationapp
-Testing for webhook concept
+
 notificationapp is a Spring REST Application, which as POST,GET,DELETE,UPDATE APIS
 
 APIS Of Devices : 
